@@ -1,6 +1,7 @@
 {   
-    "UsuarioPrueba1": {
+    {
         "id": 1,
+        "usuario": "usuario prueba",
         "pwd": 1234,
             "registro": 12000,
             "record": [
@@ -11,7 +12,6 @@
                     "sexo": "hombre"
                 }
             ],
-        "rutinas": {},
-        "active": false
+        "rutinas": {}
     }
 }
