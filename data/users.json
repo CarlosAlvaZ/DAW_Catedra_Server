@@ -2,16 +2,31 @@
     {
         "id": 1,
         "usuario": "usuario prueba",
-        "pwd": 1234,
-            "registro": 12000,
-            "record": [
-                {
-                    "peso": 75,
-                    "altura": 160,
-                    "edad": 18,
-                    "sexo": "hombre"
-                }
-            ],
-        "rutinas": {}
+        "pwd": "1234",
+        "registro": "12000",
+        "record": [
+            {
+                "peso": "75",
+                "altura": "160",
+                "edad": "18",
+                "sexo": "hombre"
+            }
+        ],
+        "rutinas": []
+    },
+    {
+        "id": 2,
+        "usuario": "usuario prueba2",
+        "pwd": "1234",
+        "registro": "12000",
+        "record": [
+            {
+                "peso": "75",
+                "altura": "160",
+                "edad": "18",
+                "sexo": "hombre"
+            }
+        ],
+        "rutinas": []
     }
 ]
