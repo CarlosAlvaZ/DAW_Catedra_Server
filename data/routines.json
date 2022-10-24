@@ -1,22 +1,207 @@
-{
-    "bajo": {
-        "Rutina #1": {
-            "Press de banca": {
-                "duracion": 15,
-                "referencia": "#"
+[
+    {
+      "id": 1,
+      "nombre": "bajo",
+      "rutinas": [
+        {
+          "nombreRutina": "Rutina #1",
+          "contenido": [
+            { 
+              "nombre": "Press de banca",
+              "duracion": "15",
+              "referencia":"#"
             },
-            "Sentadillas": {
-                "duracion": 20,
-                "referencia": "#"
+        
+            {
+              "nombre": "Sentadillas",
+              "duracion": "20",
+              "referencia":"#"
             },
-            "Press de hombros": {
-                "duracion": 15,
-                "referencia": "#"
+          
+    
+            {
+              "nombre": "Press de hombros",
+              "duracion": "15",
+              "referencia":"#"
             },
-            "Levantamiento de mancuernas": {
-                "duracion": 10,
-                "referencia": "#"
+        
+            {
+              "nombre": "Levantamiento de mancuernas",
+              "duracion": "15",
+              "referencia":"#"
             }
+          ]
+        },
+        {
+          "nombreRutina": "Rutina #2",
+          "contenido": [
+            {
+              "nombre": "Plancha",
+              "duracion": "15",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Peso muerto",
+              "duracion": "10",
+              "referencia":"#"
+            },
+            {
+              "nombre": "lagartijas",
+              "duracion": "15",
+              "referencia":"#"
+            },
+            {
+              "nombre":"Remo con barra",
+              "duracion": "10",
+              "referencia":"#"
+            }
+          ]
         }
+      ],
+  
+      "Rutina #2":{
+          "Plancha": {
+            "duracion": "15",
+            "referencia":"#"
+          },
+      
+          "peso muerto": {
+              "duracion": "10",
+              "referencia":"#"
+            },
+        
+  
+           "lagartijas": {
+              "duracion": "15",
+              "referencia":"#"
+            },
+      
+            "remo con barra": {
+              "duracion": "10",
+              "referencia":"#"
+            }   
+      },
+  
+      "Rutina #3":{
+          "dominadas": {
+            "duracion": "10",
+            "referencia":"#"
+          },
+      
+          "battle ropes": {
+              "duracion": "20",
+              "referencia":"#"
+            },
+        
+  
+           "face pull": {
+              "duracion": "15",
+              "referencia":"#"
+            },
+      
+            "hip thrust": {
+              "duracion": "10",
+              "referencia":"#"
+            }
+            
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "normal",
+      "rutinas": [
+        {
+          "nombreRutina":"Rutina #1",
+          "contenido": [
+            {
+              "nombre": "Caminata rapida una milla",
+              "duracion": "15",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Saltos de tijera",
+              "duracion": "30",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Plancha",
+              "duracion": "15",
+              "referencia":"#"
+            }
+          ]
+        },
+        {
+          "nombreRutina":"Rutina #2",
+          "contenido": [
+            {
+              "nombre": "Burpees",
+              "duracion": "20",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Desplantes con salto",
+              "duracion": "20",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Sentadillas con salto",
+              "duracion": "20",
+              "referencia":"#"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "alto",
+      "rutinas": [
+        {
+          "nombreRutina":"Rutina #1",
+          "contenido": [
+            {
+              "nombre": "Rotacion de tronco",
+              "duracion": "25",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Sentadillas",
+              "duracion": "15",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Remo",
+              "duracion": "10",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Bicicleta elíptica",
+              "duracion": "10",
+              "referencia":"#"
+            }
+          ]
+        },
+        {
+          "nombreRutina":"Rutina #2",
+          "contenido": [
+            {
+              "nombre": "Caminata",
+              "duracion": "20",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Extension de cadera",
+              "duracion": "25",
+              "referencia":"#"
+            },
+            {
+              "nombre": "Zancadas",
+              "duracion": "15",
+              "referencia":"#"
+            }
+          ]
+        }
+      ]
     }
-}
+  ]
+  

@@ -12,7 +12,8 @@
                 "sexo": "hombre"
             }
         ],
-        "rutinas": []
+        "rutinas": [],
+        "imc": ""
     },
     {
         "id": 2,
@@ -27,6 +28,7 @@
                 "sexo": "hombre"
             }
         ],
-        "rutinas": []
+        "rutinas": [],
+        "imc": ""
     }
 ]
