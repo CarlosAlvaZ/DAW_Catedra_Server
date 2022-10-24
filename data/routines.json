@@ -4,7 +4,7 @@
       "nombre": "bajo",
       "rutinas": [
         {
-          "nombreRutina": "Rutina #1",
+          "nombreRutina": "Rutina1",
           "contenido": [
             { 
               "nombre": "Press de banca",
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "nombreRutina": "Rutina #2",
+          "nombreRutina": "Rutina2",
           "contenido": [
             {
               "nombre": "Plancha",
@@ -57,61 +57,15 @@
             }
           ]
         }
-      ],
-  
-      "Rutina #2":{
-          "Plancha": {
-            "duracion": "15",
-            "referencia":"#"
-          },
+      ]
       
-          "peso muerto": {
-              "duracion": "10",
-              "referencia":"#"
-            },
-        
-  
-           "lagartijas": {
-              "duracion": "15",
-              "referencia":"#"
-            },
-      
-            "remo con barra": {
-              "duracion": "10",
-              "referencia":"#"
-            }   
-      },
-  
-      "Rutina #3":{
-          "dominadas": {
-            "duracion": "10",
-            "referencia":"#"
-          },
-      
-          "battle ropes": {
-              "duracion": "20",
-              "referencia":"#"
-            },
-        
-  
-           "face pull": {
-              "duracion": "15",
-              "referencia":"#"
-            },
-      
-            "hip thrust": {
-              "duracion": "10",
-              "referencia":"#"
-            }
-            
-      }
     },
     {
       "id": 2,
       "nombre": "normal",
       "rutinas": [
         {
-          "nombreRutina":"Rutina #1",
+          "nombreRutina":"Rutina1",
           "contenido": [
             {
               "nombre": "Caminata rapida una milla",
@@ -131,7 +85,7 @@
           ]
         },
         {
-          "nombreRutina":"Rutina #2",
+          "nombreRutina":"Rutina2",
           "contenido": [
             {
               "nombre": "Burpees",
@@ -157,7 +111,7 @@
       "nombre": "alto",
       "rutinas": [
         {
-          "nombreRutina":"Rutina #1",
+          "nombreRutina":"Rutina1",
           "contenido": [
             {
               "nombre": "Rotacion de tronco",
@@ -182,7 +136,7 @@
           ]
         },
         {
-          "nombreRutina":"Rutina #2",
+          "nombreRutina":"Rutina2",
           "contenido": [
             {
               "nombre": "Caminata",
